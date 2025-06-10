@@ -1,0 +1,22 @@
+fashion_app/
+│
+├── app.py
+├── pages/
+│   ├── 1_Create_Apparel.py
+│   ├── 2_Draw_Design.py
+│   ├── 3_Gallery.py
+│   ├── 4_Forum.py
+│   ├── 5_AI_Assistant.py
+│   └── 6_Profile.py
+│
+├── utils/
+│   ├── auth.py
+│   ├── db.py
+│   ├── design_tools.py
+│   └── ai_utils.py
+│
+├── assets/
+│   └── apparel_templates/         # put PNG/JPG silhouettes here
+│
+├── requirements.txt
+└── README.md
